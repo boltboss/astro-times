@@ -2,7 +2,7 @@
 
 An interactive web platform designed to make astronomy accessible and engaging. AstroTimes brings complex space concepts to life through real-time 3D simulations and an interactive "what-if" engine.
 
-**[Link to Live Demo Here]** ![AstroTimes Screenshot](public/placeholder.png) 
+**[View the Live Demo Here!](https://astro-times.vercel.app/)** 
 ---
 
 ## ✨ Features (v0.1 - The Interactive Lab)
