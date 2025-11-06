@@ -1,0 +1,16 @@
+[
+  {
+    "id": "earth",
+    "name": "Earth",
+    "bio": "Our home planet, the only place in the universe known to harbor life. It has one moon and a breathable atmosphere.",
+    "mass": "5.97 x 10^24 kg",
+    "radius": "6,371 km"
+  },
+  {
+    "id": "mars",
+    "name": "Mars",
+    "bio": "The 'Red Planet' is a dusty, cold, desert world with a very thin atmosphere. It's home to the tallest volcano in the solar system.",
+    "mass": "6.42 x 10^23 kg",
+    "radius": "3,390 km"
+  }
+]
